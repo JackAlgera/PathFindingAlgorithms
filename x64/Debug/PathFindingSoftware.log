@@ -1,0 +1,5 @@
+﻿  Node.cpp
+  main.cpp
+c:\users\jack\documents\visual studio 2017\projects\pathfindingsoftware\pathfindingsoftware\main.cpp(162): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  Generating Code...
+  PathFindingSoftware.vcxproj -> C:\Users\Jack\Documents\Visual Studio 2017\Projects\PathFindingSoftware\x64\Debug\PathFindingSoftware.exe

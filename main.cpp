@@ -38,7 +38,7 @@ float const tileSizeY = (screenSizeY - (SIZE_I - 1.0f) * interTileY) / SIZE_I;
 #define END 9
 
 sf::Color startColor = sf::Color(50,255,50);
-sf::Color endColor = sf::Color(255, 50, 50);
+sf::Color endColor = sf::Color::Magenta;
 sf::Color visitedColor = sf::Color::Red;
 sf::Color pathColor = sf::Color::Green;
 
